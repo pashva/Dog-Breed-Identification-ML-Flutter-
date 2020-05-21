@@ -1,0 +1,33 @@
+0 Chihuahua
+1 Labrador
+2 Maltese dog
+3 Rhodesian ridgebac...
+4 Boston Bull
+5 Japanese Spaniel
+6 Pekinise
+7 Shih Tzu
+8 Blenheim spaniel
+9 Papillon
+10 Toy Terrier
+11 Afghan Hound
+12 Basset
+13 Beagle
+14 Bloodhound
+15 Bluetick
+16 Walker Hound
+17 Redbone
+18 Borzoi
+19 English FoxHound
+20 Irish Wolfhound
+21 Italian Greyhound
+22 Whippet
+23 Ibizan hound
+24 Norweign Elkhound
+25 Otterhound
+26 Saluki
+27 Scottish deerhound
+28 Golden retreiver
+29 Rottweiler
+30 German shepherd
+31 Doberman
+32 Boxer
