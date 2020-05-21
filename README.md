@@ -1,4 +1,6 @@
-# dogbreedclassification
+# Dog Breed Identification using offline machine learning in Flutter
+![WhatsApp Image 2020-05-21 at 19 28 04](https://user-images.githubusercontent.com/61597430/82566319-59f8ca80-9b99-11ea-92bd-1e9cf4e10cde.jpeg)
+![acc3](https://user-images.githubusercontent.com/61597430/82566338-61b86f00-9b99-11ea-8d14-eb3ceac27045.PNG)
 
 A new Flutter project.
 
